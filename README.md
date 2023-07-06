@@ -5,6 +5,7 @@ Book Store API - project with Express JS framework for educational purpose
 
 # Usage
 - Install Mongo DB on your local machine or use Mongo DB Cloud -> [Go To MongoDB Website](https://www.mongodb.com)
+- Create `images` folder in your project
   
 
 ## Environment Variables
