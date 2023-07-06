@@ -3,9 +3,11 @@ Book Store API - project with Express JS framework for educational purpose
 
 # Usage
 - Install Mongo DB on your local machine or use Mongo DB Cloud -> [Go To MongoDB Website](https://www.mongodb.com)
+  
 
 ## Environment Variables
-Create `.env` file in the root folder of the project and add the following
+Create `.env` file in the root of your project and add the following
+
 ```
 MONGO_URI= your mongodb uri
 PORT= 8000
