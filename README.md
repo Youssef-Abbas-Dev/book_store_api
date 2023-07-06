@@ -1,6 +1,8 @@
 # book_store_api
 Book Store API - project with Express JS framework for educational purpose
 
+<img src="https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+
 # Usage
 - Install Mongo DB on your local machine or use Mongo DB Cloud -> [Go To MongoDB Website](https://www.mongodb.com)
   
